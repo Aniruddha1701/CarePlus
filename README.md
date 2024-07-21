@@ -1,7 +1,6 @@
 <div align="center">
   <br />
    
-    </a>
   <br />
 
   <div>
